@@ -2,8 +2,6 @@
 
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-<!--
-
 
 <a href="https://www.linkedin.com/in/patrick-zumach-808222242/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
