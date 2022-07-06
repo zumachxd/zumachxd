@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi there, I'm **Patrick Zumach T.**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
+COÉ, eu sou **Patrick Zumach T.**, sou **Estudantem da da Trybe, e futuro desenvolvedor Full-stack ** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Sobre Mim!**
 
-- 👨🏽‍💻 I’m currently working as a CSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+
+- 🌱 Atualmente sou um "aprendedor" de coisas, adoro aprender. 
+- 🤔 Meus interesses são programar e aprender sobre, alem de jogos, animes, e academia  xD
+- 💼 Sou formado em pedagogia.
+- 💬 Me chame pra conversar sobre qualquer coisa !
+- 📫 Meu Email: [patrickz.t@outlook.com].
+.
 
 
 **Languages and Tools:**  
