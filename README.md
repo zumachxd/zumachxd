@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
 
-<a href="https://www.linkedin.com/in/patrick-zumach-808222242/]">
+<a href="https://www.linkedin.com/in/patrick-zumach-808222242/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/](https://www.instagram.com/patrickzumach/]">
+<a href="https://www.instagram.com/zamranxd/](https://www.instagram.com/patrickzumach/">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD](https://www.facebook.com/patrick.zumach.5]">
+<a href="https://www.facebook.com/ZamranxD](https://www.facebook.com/patrick.zumach.5">
   <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
