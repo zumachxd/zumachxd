@@ -1,6 +1,6 @@
 <!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-
+<!--
 <a href="https://www.linkedin.com/in/patrick-zumach-808222242/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,7 +28,7 @@ Coé, eu sou **Patrick Zumach T.**, sou **Estudantem da da Trybe, e futuro desen
 - 💼 Sou formado em pedagogia.
 - 💬 Me chame pra conversar sobre qualquer coisa !
 - 📫 Meu Email: [patrickz.t@outlook.com].
-.
+-->
 
 
 **Languages and Tools:**  
