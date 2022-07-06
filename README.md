@@ -1,4 +1,4 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
+
 
 <!--
 **ZamranxD/ZamranxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+
 
 <a href="https://www.linkedin.com/in/patrick-zumach-808222242/">
   <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=zumachxd&color=blueviolet">
 <br />
 <br />
 
