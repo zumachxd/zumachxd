@@ -16,14 +16,14 @@
 <br />
 <br />
 
-Coé, eu sou **Patrick Zumach T.**, sou **Estudantem da da Trybe, e futuro desenvolvedor Full-stack** 🚀.
+Ola, eu sou **Patrick Zumach T.**, sou **Sou desenvolvedor Web/Mobile** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Sobre Mim!**
 
 
-- 🌱 Atualmente sou um "aprendedor" de coisas, adoro aprender. 
+- 🌱 Atualmente trabalho como desenvolvedor Freelancer tentando resolver o problema dos outros, com letrinhas coloridas. 
 - 🤔 Meus interesses são programar e aprender sobre, alem de jogos, animes, e academia  xD
 - 💼 Sou formado em pedagogia.
 - 💬 Me chame pra conversar sobre qualquer coisa !
